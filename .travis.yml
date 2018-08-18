@@ -1,2 +1,3 @@
 language: python
-script: echo "Boola boola boola3"
+script: pytest
+
