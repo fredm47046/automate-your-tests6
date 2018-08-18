@@ -14,7 +14,7 @@ def test_answer():
 	We expect this test to pass
 	"""
 	print "about to call assertion"
-	assert inc(3) == 5
+	assert inc(4) == 5
 	print "exiting assertion"
 """Line at end of file
 """
